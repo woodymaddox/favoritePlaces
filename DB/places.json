@@ -1,0 +1,94 @@
+{
+    "places": [
+        { 
+            "cityState": "Tennessee",
+            "cityImage": "https://data.whicdn.com/images/316426402/large.jpg",
+            "favoriteRestaurant": "Kayne Prime", 
+            "favoriteBar": "SaintAnejo",
+            "favoriteHotel": "Hilton",
+            "favoriteTourist Attraction": "Broadway"
+        }, 
+        {   
+            
+            "cityState": "Kentucky",
+            "cityImage": "https://excitemytravel.com/wp-content/uploads/2018/01/KentuckyDerbyRace-600x600.jpeg",
+            "favoriteRestaurant": "Sals",
+            "favoriteBar": "HolidayInn",
+            "favoriteHotel": "Grand Hotel",
+            "favoriteTouristAttraction": "Bourbon Palace"
+           
+        }, 
+        { 
+
+            "cityState": "Georgia",
+            "cityImage": "https://www.kutakrock.com/-/media/office-photos/atlanta-web.jpg",
+            "favoriteRestaurant": "TheVarsity",
+            "favoriteBar": "Micks",
+            "favoriteHotel": "Kotel",
+            "favoriteTouristAttraction": "Atlanta Falcons"
+
+        }, 
+        {
+
+            "cityState": "NewYork",
+            "cityImage": "https://blackbearcampground.com/images/NYC-Times.jpg",
+            "favoriteRestaurant": "Prime",
+            "favoriteBar": "Verve",
+            "favoriteHotel": "Waldorf",
+            "favoriteTouristAttraction": "NewYork Met"
+
+        }, 
+        {
+
+            "cityState": "Florida",
+            "cityImage": "https://fastly.4sqi.net/img/general/600x600/8181170_wyCm4e99Dads_rNLLefw7VhMS78pBRGJut_oEaY0JHk.jpg",
+            "favoriteRestaurant": "Ruth Chris",
+            "favoriteBar": "Icon",
+            "favoriteHotel": "Gaylord Palm",
+            "favoriteTouristAttraction": "Disney World"
+
+        }, 
+        {
+
+            "cityState": "Texas",
+            "cityImage": "https://cdn-image.travelandleisure.com/sites/default/files/styles/weekend_getaways_landing_page/public/assets/images/201405-wg-dallas-nightlife-in-austin.jpg?itok=7B7t0OLZ",
+            "favoriteRestaurant": "STK",
+            "favoriteBar": "Wild Things",
+            "favoriteHotel": "The Road House",
+            "favoriteTouristAttraction": "Texans Stadium"
+
+        }, 
+        {
+
+
+            "cityState": "California",
+            "cityImage": "https://www.shoreexcursionsgroup.com/img/tour/MXLACHNIGHTHT-2.jpg",
+            "favoriteRestaurant": "Rodeo Grill",
+            "favoriteBar": "Gypsy",
+            "favoriteHotel": "The Palm",
+            "favoriteTouristAttraction": "China Town"
+
+
+        }, 
+        {
+
+            "cityState": "Nevada",
+            "cityImage": "https://hogcartours.com/wp-content/uploads/2016/04/2013_10_Las-Vegas-Night-HD-Wallpaper3-600x600.jpg",
+            "favoriteRestaurant": "ParisParis",
+            "favoriteBar": "Omnia",
+            "favoriteHotel": "Bellagio",
+            "favoriteTouristAttraction": "Stratosphere"
+
+        }, 
+        {
+
+            "cityState": "Montana",
+            "cityImage": "https://www.montanaflyfishingguides.com/wp-content/uploads/2019/02/Inset-offer-lodges-opt.jpg",
+            "favoriteRestaurant": "Big Eds Grill",
+            "favoriteBar": "Billies",
+            "favoriteHotel": "Hilton",
+            "favoriteTouristAttraction": "National Monument"
+
+        }
+    ]
+}
