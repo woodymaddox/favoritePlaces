@@ -1,0 +1,38 @@
+body {
+    background-image:url("http://hdwpro.com/wp-content/uploads/2018/05/highway-image.jpg");
+  background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+  
+  }
+  
+  .card {
+    background-color:lightgray;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 5em;
+    
+  }
+  
+  .cityState {
+
+  color: black;
+  }
+  
+  .image {
+      
+      border-radius: 6px;
+      width: 100%
+  
+  }
+
+  .navbar {
+    background-color:#e8c00d;
+    margin-bottom: 3em;
+    text-align: center;
+    font-weight: bold;
+  }
+  
